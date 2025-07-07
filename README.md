@@ -1,9 +1,14 @@
-<h1 align="center">Hi 👋, I'm Hishaam</h1>
-<h3 align="center">Software Developer</h3>
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdjcHk4ZGNmbjJocXF5YnU1azJoM2x4OGkyZDNwMDZhNTZkd3VuNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif"  />
 </div>
 <div align="center">
+<div><h1 align="center">Hishaam</h1>
+<h3 align="center">Software Developer</h3>
+<p>
+  Hi 👋 I am Hishaam. I am a Software Engineer and eager to contribute my analytical mindset and problem-solving skills to tackle complex coding challenges and contribute to the continuous improvement and design of new and existing software systems
+</p>
+</div>
 <img src="https://github-readme-stats.vercel.app/api?username=rykietech&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="rykietech" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rykietech&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
