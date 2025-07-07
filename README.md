@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hishaam</h1>
 <h3 align="center">Software Developer</h3>
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXdjcHk4ZGNmbjJocXF5YnU1azJoM2x4OGkyZDNwMDZhNTZkd3VuNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif"  />
 </div>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=rykietech&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="rykietech" />
